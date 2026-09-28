@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.246",
+  "latest_version": "1.0.247",
   "filename": "WemoovConnectAgent.exe",
-  "url": "https://raw.githubusercontent.com/angel92153/wemoov-hrm-release/main/WemoovConnectAgent-1.0.246.exe",
-  "sha256": "08e1dae058b9a5444ce40705b0a1d68a9ce6ba4d71acbb45ac92e6535da90f2a"
+  "url": "https://raw.githubusercontent.com/angel92153/wemoov-hrm-release/main/WemoovConnectAgent-1.0.247.exe",
+  "sha256": "0774eb33f3868b64652aea97d825db7fbb84c4d7f0b439fde8a16f661a26534a"
 }
